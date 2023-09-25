@@ -25,7 +25,7 @@ A simple Android application that performs basic arithmetic operations: addition
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/basic-calculator-app.git
+   git clone https://github.com/w0-0n9/Calculator.git
 2. Open the project in Android Studio.
 3. Sync the Gradle files if prompted.
 4. Build and run the app on an emulator or a physical device by clicking the `Run` button in Android Studio.
@@ -42,4 +42,4 @@ A simple Android application that performs basic arithmetic operations: addition
 1. Fork the repository on GitHub.
 2. Clone your forked repository locally.
    ```bash
-   git clone https://github.com/<your-username>/basic-calculator-app.git
+   git clone https://github.com/w0-0n9/Calculator.git
